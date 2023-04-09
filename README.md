@@ -12,11 +12,13 @@ in the odoo.conf file found in the path /etc/odoo/odoo.conf.
 Script install ngnix-cerbot(nginxfranz.sh):<br>
 This script is for those who want to add a domain to odoo, with nginx and cerbot; this script is taken from Yenthe666(https://github.com/Yenthe666/InstallScript#odoo-install-script).
 
-# Installation procedure:
+# Installation procedure(for both scripts only rename the file):
 
 1. Download the script:<br>
 
 <pre><code class="language-javascript">sudo wget https://raw.githubusercontent.com/FranzLM2018/Odoo/16.0/odoofranz.sh</code></pre>
+}<pre><code class="language-javascript">sudo wget https://raw.githubusercontent.com/FranzLM2018/Odoo/16.0/nginxfranz.sh</code></pre>
+
 
 2. Modify the parameters as you wish:<br>
 Configure:<br>
@@ -28,7 +30,9 @@ VERSION=15.0 Odoo version<br>
 3. We give permission to the file:
 
 <pre><code class="language-javascript">sudo chmod u+x odoofranz.sh</code></pre>
+<pre><code class="language-javascript">sudo chmod u+x nginxfranz.sh</code></pre>
 
 4.Run:
 
 <pre><code class="language-javascript">sudo sh odoofranz.sh</code></pre>
+<pre><code class="language-javascript">sudo sh nginxfranz.sh</code></pre>
