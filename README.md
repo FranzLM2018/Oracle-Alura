@@ -17,7 +17,7 @@ This script is for those who want to add a domain to odoo, with nginx and cerbot
 1. Download the script:<br>
 
 <pre><code class="language-javascript">sudo wget https://raw.githubusercontent.com/FranzLM2018/Odoo/16.0/odoofranz.sh</code></pre>
-}<pre><code class="language-javascript">sudo wget https://raw.githubusercontent.com/FranzLM2018/Odoo/16.0/nginxfranz.sh</code></pre>
+<pre><code class="language-javascript">sudo wget https://raw.githubusercontent.com/FranzLM2018/Odoo/16.0/nginxfranz.sh</code></pre>
 
 
 2. Modify the parameters as you wish:<br>
