@@ -35,4 +35,4 @@ VERSION=15.0 Odoo version<br>
 4.Run:
 
 <pre><code class="language-javascript">sudo sh odoofranz.sh</code></pre>
-<pre><code class="language-javascript">sudo sh nginxfranz.sh</code></pre>
+<pre><code class="language-javascript">sudo ./nginxfranz.sh</code></pre>
